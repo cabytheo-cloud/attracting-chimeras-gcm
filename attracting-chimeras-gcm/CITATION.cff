@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Code for: Examples of attracting chimeras with chaotic dynamics in globally coupled maps"
+authors:
+  - family-names: Caby
+    given-names: Théophile
+    affiliation: "Laboratoire d'Océanographie Physique et Spatiale, Univ Brest, CNRS, IRD, Ifremer, Brest, France"
+    email: theophile.caby@univ-brest.fr
+version: 1.0.0
+date-released: 2026-10-27
+license: MIT
+repository-code: "https://github.com/USERNAME/attracting-chimeras-gcm"
+keywords:
+  - globally coupled maps
+  - chimera states
+  - transverse Lyapunov exponent
+  - computer-assisted proof
+preferred-citation:
+  type: article
+  title: "Examples of attracting chimeras with chaotic dynamics in globally coupled maps"
+  authors:
+    - family-names: Caby
+      given-names: Théophile
+  year: 2026

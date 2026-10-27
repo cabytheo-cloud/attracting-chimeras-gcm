@@ -1,0 +1,7 @@
+# The exact verifications (verify_all.py, */verify_exact.py) need only the Python standard library.
+# The numerical scripts and figures need:
+numpy>=1.24
+numba>=0.58
+scipy>=1.10
+matplotlib>=3.7
+mpmath>=1.3
